@@ -1,2 +1,8 @@
-rootProject.name = 'Willpower'
+rootProject.name = 'RPenGine'
+
+include 'World'
+
+include 'Creatures'
+
+include 'Items'
 

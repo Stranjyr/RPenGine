@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Creatures/Creatures.iml" filepath="$PROJECT_DIR$/Creatures/Creatures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Items/Items.iml" filepath="$PROJECT_DIR$/Items/Items.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPenGine.iml" filepath="$PROJECT_DIR$/RPenGine.iml" />
       <module fileurl="file://$PROJECT_DIR$/Willpower.iml" filepath="$PROJECT_DIR$/Willpower.iml" />
+      <module fileurl="file://$PROJECT_DIR$/World/World.iml" filepath="$PROJECT_DIR$/World/World.iml" />
     </modules>
   </component>
 </project>
